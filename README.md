@@ -1,9 +1,6 @@
 #  Hi I'm Javier 👋
-
-<p align="center">
-  <img src="banner.png"/>
-</p>
-
+ 
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-javi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/javier-mena-bernal-carranza-b15a15211/)
 [![Twitter Badge](https://img.shields.io/badge/-@jmaxgamerpro-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/jmaxgamerpro)
 [![Instagram Badge](https://img.shields.io/badge/-@javimbc-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/javimbc02)
@@ -31,7 +28,5 @@ Program on ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=f
 
 Play Videogames
 
-See Anime
 
-<img src="shenhe.png"/> <img src="ganyu.png"/> 
 
