@@ -18,7 +18,7 @@ I really love Programming Apps, if u want to know what language i use.......
 
 ## About Me
 
-Currently doing practise of ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) in Procisa
+Frontend developer practices ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) in procisa
 <br><br>
 Im gonna start learn ![Swift](https://img.shields.io/badge/swift-%23323330.svg?style=for-the-badge&logo=swift&logoColor=orange)
 
