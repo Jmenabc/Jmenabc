@@ -20,7 +20,6 @@ I really love Programming Apps, if u want to know what language i use.......
 
 Frontend developer practices ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) in procisa
 <br><br>
-Im gonna start learn ![Swift](https://img.shields.io/badge/swift-%23323330.svg?style=for-the-badge&logo=swift&logoColor=orange)
 
 I studied at Vedruna in Seville, i studied DAM (Multi-Platform Developer).
 
@@ -28,7 +27,7 @@ I studied at Vedruna in Seville, i studied DAM (Multi-Platform Developer).
 
 Program on ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 
-Play Videogames
+Learn new Languages
 
 
 
